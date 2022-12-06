@@ -1,0 +1,188 @@
+Samples	Origin	Outbreak	Type	Sample_origin
+BB1	Clinical_1	1	Clinical	Urinary tract
+BB10	Clinical_2	2	Clinical	Respiratory tract
+BB11	Clinical_2	2	Clinical	Urinary tract
+BB12	Clinical_2	2	Clinical	Urinary tract
+BB13	Clinical_2	2	Clinical	Gastrointestinal tract
+BB14	Clinical_2	2	Clinical	Blood
+BB15	Clinical_2	2	Clinical	Gastrointestinal tract
+BB16	Clinical_2	2	Clinical	Gastrointestinal tract
+BB17	Clinical_2	2	Clinical	Gastrointestinal tract
+BB18	Clinical_2	2	Clinical	Gastrointestinal tract
+BB19	Clinical_3	3	Clinical	Gastrointestinal tract
+BB2	Clinical_1	1	Clinical	Respiratory tract
+BB20	Clinical_3	3	Clinical	Gastrointestinal tract
+BB21	Clinical_3	3	Clinical	Gastrointestinal tract
+BB22	Clinical_3	3	Clinical	Gastrointestinal tract
+BB23	Clinical_3	3	Clinical	Gastrointestinal tract
+BB24	Clinical_4	4	Clinical	Respiratory tract
+BB25	Clinical_4	4	Clinical	Respiratory tract
+BB26	Clinical_4	4	Clinical	Abdomen
+BB27	Clinical_4	4	Clinical	Gastrointestinal tract
+BB28	Clinical_5	5	Clinical	Blood
+BB29	Clinical_5	5	Clinical	Respiratory tract
+BB3	Clinical_1	1	Clinical	Blood
+BB30	Clinical_5	5	Clinical	Eye, ear
+BB31	Clinical_5	5	Clinical	Gastrointestinal tract
+BB32	Clinical_5	5	Clinical	Gastrointestinal tract
+BB33	Clinical_5	5	Clinical	Gastrointestinal tract
+BB34	Clinical_5	5	Clinical	Eye, ear
+BB35	Clinical_5	5	Clinical	Gastrointestinal tract
+BB36	Clinical_5	5	Clinical	Gastrointestinal tract
+BB37	Clinical_5	5	Clinical	Gastrointestinal tract
+BB38	Clinical_5	5	Clinical	Gastrointestinal tract
+BB39	Clinical_5	5	Clinical	Respiratory tract
+BB4	Clinical_1	1	Clinical	Respiratory tract
+BB40	Clinical_5	5	Clinical	Respiratory tract
+BB41	Clinical_5	5	Clinical	Respiratory tract
+BB42	Clinical_5	5	Clinical	Gastrointestinal tract
+BB43	Clinical_5	5	Clinical	Gastrointestinal tract
+BB44	Clinical_5	5	Clinical	Gastrointestinal tract
+BB45	Clinical_5	5	Clinical	Gastrointestinal tract
+BB46	Clinical_5	5	Clinical	Respiratory tract
+BB47	Clinical_5	5	Clinical	Urinary tract
+BB48	Clinical_5	5	Clinical	Respiratory tract
+BB49	Clinical_5	5	Clinical	Sacroiliac Injury
+BB5	Clinical_1	1	Clinical	Blood
+BB50	Clinical_5	5	Clinical	Eye, ear
+BB51	Clinical_5	5	Clinical	Respiratory tract
+BB52	Clinical_5	5	Clinical	Respiratory tract
+BB53	Clinical_5	5	Clinical	Gastrointestinal tract
+BB54	Clinical_5	5	Clinical	Gastrointestinal tract
+BB55	Clinical_5	5	Clinical	Gastrointestinal tract
+BB56	Clinical_5	5	Clinical	Gastrointestinal tract
+BB6	Clinical_1	1	Clinical	Blood
+BB7	Clinical_1	1	Clinical	Respiratory tract
+BB8	Clinical_1	1	Clinical	Breast milk
+BB9	Clinical_1	1	Clinical	Abdomen
+BD-52-0014	Sink 2020	4	Sink drain	P-trap
+BD-52-0028	Sink 2020	4	Sink drain	P-trap
+BD-52-0042	Sink 2020	4	Sink drain	P-trap
+BD-55-0014	Sink 2020	4	Sink drain	P-trap
+BD-63-0014	Sink 2020	4	Sink drain	P-trap
+BD-63-0028	Sink 2020	4	Sink drain	P-trap
+BD-63-0042	Sink 2020	4	Sink drain	P-trap
+BD-64-0014	Sink 2020	4	Sink drain	P-trap
+BD-64-0028	Sink 2020	4	Sink drain	P-trap
+BD-64-0042	Sink 2020	4	Sink drain	P-trap
+BD-72-0021	Sink 2020	4	Sink drain	P-trap
+BD-72-0035	Sink 2020	4	Sink drain	P-trap
+BD-72-0049	Sink 2020	4	Sink drain	P-trap
+BD-73-0021	Sink 2020	4	Sink drain	P-trap
+BD-73-0035	Sink 2020	4	Sink drain	P-trap
+BD-80-0014	Sink 2020	4	Sink drain	P-trap
+BD-80-0028	Sink 2020	4	Sink drain	P-trap
+BD-80-0042	Sink 2020	4	Sink drain	P-trap
+BDPLM-0021	Sink 2020	4	Sink drain	P-trap
+BDPLM-0035	Sink 2020	4	Sink drain	P-trap
+BD-PLM-0049	Sink 2020	4	Sink drain	P-trap
+BWD-18-1313	Sink 2021	5	Sink drain	P-trap
+BWD-33-1264	Sink 2021	5	Sink drain	P-trap
+BWD-47-1349	Sink 2021	5	Sink drain	P-trap
+BWD-48-1326	Sink 2021	5	Sink drain	P-trap
+BWD-48-1330	Sink 2021	5	Sink drain	P-trap
+BWD-49-1326	Sink 2021	5	Sink drain	P-trap
+BWD-51-1264	Sink 2021	5	Sink drain	P-trap
+BWD-52-1229	Sink 2021	5	Sink drain	P-trap
+BWD-52-1236	Sink 2021	5	Sink drain	P-trap
+BWD-53-1229	Sink 2021	5	Sink drain	P-trap
+BWD-53-1250	Sink 2021	5	Sink drain	P-trap
+BWD-53-1278	Sink 2021	5	Sink drain	P-trap
+BWD-55-1229	Sink 2021	5	Sink drain	P-trap
+BWD-55-1250	Sink 2021	5	Sink drain	P-trap
+BWD-55-1250-Sm3	Sink 2021	5	Sink drain	P-trap
+BWD-55-1278	Sink 2021	5	Sink drain	P-trap
+BWD-55-1285	Sink 2021	5	Sink drain	P-trap
+BWD-55-1292	Sink 2021	5	Sink drain	P-trap
+BWD-55-1301	Sink 2021	5	Sink drain	P-trap
+BWD-55-1306	Sink 2021	5	Sink drain	P-trap
+BWD-58-1236	Sink 2021	5	Sink drain	P-trap
+BWD-58-1236-Sm1	Sink 2021	5	Sink drain	P-trap
+BWD-60-1313	Sink 2021	5	Sink drain	P-trap
+BWD-60-1326	Sink 2021	5	Sink drain	P-trap
+BWD-60-1330	Sink 2021	5	Sink drain	P-trap
+BWD-61-1313	Sink 2021	5	Sink drain	P-trap
+BWD-61-1326	Sink 2021	5	Sink drain	P-trap
+BWD-61-1330	Sink 2021	5	Sink drain	P-trap
+BWD-62-1313	Sink 2021	5	Sink drain	P-trap
+BWD-62-1313-Sm1	Sink 2021	5	Sink drain	P-trap
+BWD-62-1326	Sink 2021	5	Sink drain	P-trap
+BWD-62-1330	Sink 2021	5	Sink drain	P-trap
+BWD-62-2028	Sink 2021	5	Sink drain	P-trap
+BWD-64-1229	Sink 2021	5	Sink drain	P-trap
+BWD-64-1236	Sink 2021	5	Sink drain	P-trap
+BWD-64-1243	Sink 2021	5	Sink drain	P-trap
+BWD-64-1250	Sink 2021	5	Sink drain	P-trap
+BWD-64-1257	Sink 2021	5	Sink drain	P-trap
+BWD-64-1264	Sink 2021	5	Sink drain	P-trap
+BWD-64-1271	Sink 2021	5	Sink drain	P-trap
+BWD-64-1278	Sink 2021	5	Sink drain	P-trap
+BWD-67-1349	Sink 2021	5	Sink drain	P-trap
+BWD-72-1229	Sink 2021	5	Sink drain	P-trap
+BWD-72-1250	Sink 2021	5	Sink drain	P-trap
+BWD-72-1278	Sink 2021	5	Sink drain	P-trap
+BWD-73-1229	Sink 2021	5	Sink drain	P-trap
+BWD-73-1250	Sink 2021	5	Sink drain	P-trap
+BWD-73-1278	Sink 2021	5	Sink drain	P-trap
+BWD-73-1285	Sink 2021	5	Sink drain	P-trap
+BWD-73-1292	Sink 2021	5	Sink drain	P-trap
+BWD-73-1301	Sink 2021	5	Sink drain	P-trap
+BWD-73-1306	Sink 2021	5	Sink drain	P-trap
+BWD-79-1229	Sink 2021	5	Sink drain	P-trap
+BWD-79-1236	Sink 2021	5	Sink drain	P-trap
+BWD-79-1243	Sink 2021	5	Sink drain	P-trap
+BWD-79-1250	Sink 2021	5	Sink drain	P-trap
+BWD-79-1257	Sink 2021	5	Sink drain	P-trap
+BWD-79-1264	Sink 2021	5	Sink drain	P-trap
+BWD-79-1271	Sink 2021	5	Sink drain	P-trap
+BWD-79-1278	Sink 2021	5	Sink drain	P-trap
+BWD-80-1257	Sink 2021	5	Sink drain	P-trap
+BWD-80-1326	Sink 2021	5	Sink drain	P-trap
+BWD-80-2028	Sink 2021	5	Sink drain	P-trap
+BWD-PLMR-1229	Sink 2021	5	Sink drain	P-trap
+BWD-PLMR-1236	Sink 2021	5	Sink drain	P-trap
+BWD-PLMR-1243	Sink 2021	5	Sink drain	P-trap
+BWD-PLMR-1250	Sink 2021	5	Sink drain	P-trap
+BWD-PLMR-1257	Sink 2021	5	Sink drain	P-trap
+BWD-PLMR-1264	Sink 2021	5	Sink drain	P-trap
+BWD-PLMR-1271	Sink 2021	5	Sink drain	P-trap
+BWD-PLMR-1278	Sink 2021	5	Sink drain	P-trap
+BWD-PLMS-1229	Sink 2021	5	Sink drain	P-trap
+BWD-PLMS-1236	Sink 2021	5	Sink drain	P-trap
+BWD-PLMS-1243	Sink 2021	5	Sink drain	P-trap
+BWD-PLMS-1250	Sink 2021	5	Sink drain	P-trap
+BWD-PLMS-1257	Sink 2021	5	Sink drain	P-trap
+BWD-PLMS-1264	Sink 2021	5	Sink drain	P-trap
+BWD-PLMS-1271	Sink 2021	5	Sink drain	P-trap
+BWD-PLMS-1278	Sink 2021	5	Sink drain	P-trap
+BWD-PLMS-1326	Sink 2021	5	Sink drain	P-trap
+WD-52-0014	Sink 2020	4	Sink drain	P-trap
+WD-52-0028	Sink 2020	4	Sink drain	P-trap
+WD-52-0042	Sink 2020	4	Sink drain	P-trap
+WD-55-0042	Sink 2020	4	Sink drain	P-trap
+WD-63-0014	Sink 2020	4	Sink drain	P-trap
+WD-63-0028	Sink 2020	4	Sink drain	P-trap
+WD-63-0042	Sink 2020	4	Sink drain	P-trap
+WD-63-9295-Sm	Sink 2019	3	Sink drain	P-trap
+WD-64-0014	Sink 2020	4	Sink drain	P-trap
+WD-64-0028	Sink 2020	4	Sink drain	P-trap
+WD-64-0042	Sink 2020	4	Sink drain	P-trap
+WD-64-9295-Sm1	Sink 2019	3	Sink drain	P-trap
+WD-72-0021	Sink 2020	4	Sink drain	P-trap
+WD-72-0035	Sink 2020	4	Sink drain	P-trap
+WD-72-0049	Sink 2020	4	Sink drain	P-trap
+WD-72-9295-Sm1	Sink 2019	3	Sink drain	P-trap
+WD-72-9295-Sm2	Sink 2019	3	Sink drain	P-trap
+WD-73-0021	Sink 2020	4	Sink drain	P-trap
+WD-73-0035	Sink 2020	4	Sink drain	P-trap
+WD-73-0049	Sink 2020	4	Sink drain	P-trap
+WD-80-0014	Sink 2020	4	Sink drain	P-trap
+WD-80-0028	Sink 2020	4	Sink drain	P-trap
+WD-80-0042	Sink 2020	4	Sink drain	P-trap
+WD-80-9288-Sm1	Sink 2019	3	Sink drain	P-trap
+WD-80-9288-Sm2	Sink 2019	3	Sink drain	P-trap
+WD-80-9288-Sm3	Sink 2019	3	Sink drain	P-trap
+WDPLM-0021	Sink 2020	4	Sink drain	P-trap
+WDPLM-0035	Sink 2020	4	Sink drain	P-trap
+WD-PLM-0049	Sink 2020	4	Sink drain	P-trap
+BD1b-2wD	Sink 2019	1	Sink drain	P-trap
