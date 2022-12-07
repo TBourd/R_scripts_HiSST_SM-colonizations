@@ -1,20 +1,18 @@
 #'HiSST-Assignation
 
 
-#'The second R script in the file entitled "Step2_Assign-ST+infos" allows to identify the HiSST-profile Sequence Type (ST) 
-#'of the corresponding S. marcecens isolate(s) or dominant eDNA, 
-#'by using the Short Sequence Type (SST) of each locus (i.e. bssA, gabR and dhaM) from the HiSST scheme.
+#'This script allows to identify the HiSST-profile Sequence Type (ST) of the corresponding S. marcecens isolate(s) or dominant eDNA,
+#' by using the Short Sequence Type (SST) of each locus (i.e. bssA, gabR and dhaM) from the HiSST scheme.
 
-#'The last section of this script allows to add a new HiSST profile to the database.
+
+#'The file 'v04-2022_HiSST_database.txt' needed for this script is available 
+#'at https://github.com/TBourd/R_scripts_HiSST_SM-outbreaks/tree/main/Step2_Assign-ST-infos
 #'
-#'The file 'HiSST_Database.txt' needed for this script is available 
-#'at https://github.com/TBourd/R_scripts_for_HiSST_scheme/tree/main/Data.
-
 
   
 setwd("~/Step2_Assign-ST_infos/") #Set the working directory path of your project
   
-HiSST <- read.table("~/v1.4-2022_HiSST_database.txt",header = TRUE) #Import Database 
+HiSST <- read.table("~/v04-2022_HiSST_database.txt",header = TRUE) #Import Database 
 
 
 #'Combine loci-ST profiles of data base in 1 column  
@@ -24,12 +22,12 @@ HiSST.cb <- data.frame(HiSST,combination_ST)
 
 ## -- Import data --
 
-#### Without input file ####
-#ID <- c("a","b","c") #'Enter the ID of the strain(s) : e.g. strain #a = "a"
-#query <- data.frame(ID=ID,bssA=c(2,4,3),gabR=c(1,7,1),dhaM=c(1,4,1)) #'Enter ST of each HiSST-locus
+#### Option 1: Without input file ####
+ID <- c("a","b","c") #'Enter the ID of the strain(s) : e.g. strain #a = "a"
+query <- data.frame(ID=ID,bssA=c(2,4,3),gabR=c(1,7,1),dhaM=c(1,4,1)) #'Enter ST of each HiSST-locus
 
-#### Import .txt file ####
-# These tables are obtained from the R script "dada2_for_HiSST_scheme.R" (lines 242-266).
+#### Option 2: Import .txt file ####
+# These tables are obtained from the R script "Script_dada2_HiSST_v04-2022.R" (lines 263-290).
 
 bssA <- read.table("~/bssA_Samples_and_ASV-ST.txt",header = TRUE)
 dhaM <- read.table("~/dhaM_Samples_and_ASV-ST.txt",header = TRUE)

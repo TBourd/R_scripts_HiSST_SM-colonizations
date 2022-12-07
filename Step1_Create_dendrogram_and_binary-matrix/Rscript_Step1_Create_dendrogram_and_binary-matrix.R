@@ -1,3 +1,14 @@
+#' Draw a dendrogram and create a binary matrix for the presence/absence of ST.
+#' 
+#' This script is used to create a circular dendrogram of the eDNA and the isolated samples from the survey (REF). 
+#' 
+#' The text files needed for this script (e.g. 'bssA_ASV_samples.txt') are available 
+#' at https://github.com/TBourd/R_scripts_HiSST_SM-outbreaks/tree/main/Step2_Assign-ST-infos
+#' and was obtained from the R script "Script_dada2_HiSST_v04-2022.R" (lines 243-259).
+#'
+#' Lines 174-175 of this script generate a binary matrix used for the Minimum Spanning Tree.
+
+
 library(dplyr)
 
 setwd("~/Step1_Create_dendrogram_and_binary-matrix/")
