@@ -4,7 +4,6 @@ setwd("~/Step1_Create_dendrogram_and_binary-matrix/")
 
 #### _____ Step 1: import data and compile bssA, gabR and dhaM ____ ####
 
-
 ST <- read.delim("bssA_ASV_samples.txt") #Change for bssA, then for gabR and for dhaM
 #ST <- read.delim("gabR_ASV_samples.txt") 
 #ST <- read.delim("dhaM_ASV_samples.txt") 
