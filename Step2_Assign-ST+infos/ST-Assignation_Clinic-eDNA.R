@@ -1,9 +1,10 @@
 #'HiSST-Assignation
 
 
-#'This R script allows to identify the HiSST-profile ID of the corresponding S. marcecens isolate(s) or dominant eDNA,
-#'by using the sequence type (ST) ID of each HiSST-locus (i.e. bssA, gabR and dhaM) of the isolate(s).
-#'
+#'The second R script in the file entitled "Step2_Assign-ST+infos" allows to identify the HiSST-profile Sequence Type (ST) 
+#'of the corresponding S. marcecens isolate(s) or dominant eDNA, 
+#'by using the Short Sequence Type (SST) of each locus (i.e. bssA, gabR and dhaM) from the HiSST scheme.
+
 #'The last section of this script allows to add a new HiSST profile to the database.
 #'
 #'The file 'HiSST_Database.txt' needed for this script is available 
