@@ -12,7 +12,7 @@
   
 setwd("~/Step2_Assign-ST_infos/") #Set the working directory path of your project
   
-HiSST <- read.table("~/v04-2022_HiSST_database.txt",header = TRUE) #Import Database 
+HiSST <- read.table("~/v2022-04_HiSST_database.txt",header = TRUE) #Import Database 
 
 
 #'Combine loci-ST profiles of data base in 1 column  
