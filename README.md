@@ -1,4 +1,4 @@
-# R_scripts_HiSST_SM-outbreaks
+# R_scripts_HiSST_SM-colonizations
  Rscripts and data used for _S. marcescens_ outbreaks survey, using the HiSST scheme.
  
 - R script "Script_dada2_HiSST_v04-2022.R" originate from dada2 processing (https://benjjneb.github.io/dada2/index.html) and was adapted for HiSST analysis. At the end of this script, two text files are generated for further analysis described below.
