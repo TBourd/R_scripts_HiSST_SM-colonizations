@@ -15,7 +15,7 @@
 
 #' This script assigns a HiSST-profile Sequence Type (ST) to the corresponding S. marcescens isolate(s) or dominant eDNA, based on the Short Sequence Type (SST) of each locus (i.e. bssA, gabR and dhaM) from the HiSST scheme.
 
-#' The file 'v2022-11_HiSST_database.txt' needed for this script is available at https://github.com/TBourd/R_scripts_HiSST_SM-outbreaks/tree/main/Step2_Assign-ST-infos.
+#' The file 'v2022-11_HiSST_database.txt' needed for this script is available at https://github.com/TBourd/R_scripts_HiSST_SM-outbreaks/tree/main/Step1_Assign-ST-infos.
 
 library(dplyr)
 
@@ -34,7 +34,7 @@ ID <- c("a", "b", "c")
 query <- data.frame(ID = ID, bssA = c(2, 4, 3), gabR = c(1, 7, 1), dhaM = c(1, 4, 1))
 
 # option 2: import .txt file
-# these tables are obtained from the R script "Script_dada2_HiSST_v04-2022.R" (lines 263-290)
+# these tables are obtained from the R script "Script_dada2_HiSST_v04-2022.R" (lines 246-273)
 bssA <- read.table("bssA_Samples_and_ASV-ST.txt", header = TRUE)
 dhaM <- read.table("dhaM_Samples_and_ASV-ST.txt", header = TRUE)
 gabR <- read.table("gabR_Samples_and_ASV-ST.txt", header = TRUE)
