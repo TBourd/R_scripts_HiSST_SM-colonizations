@@ -243,30 +243,10 @@ write.table(asv_tax, "dhaM_ASVs_taxonomy.txt", sep="\t", quote=F)
 
 
 
-### _____ Export results in a matrix of samples (rows) and AVS counts (columns) ___ ####
-
-#'The output is used in the script "Rscript_Step1_Create_dendrogram_and_binary-matrix.R"
-#' available at: https://github.com/TBourd/R_scripts_HiSST_SM-outbreaks/tree/main/Step1_Create_dendrogram_and_binary-matrix
-
-
-ASV.sample <- seqtab.nochim
-colnames(ASV.sample) <- sub(">", "", asv_headers)
-
-ASV.sample.sort <- ASV.sample
-for (i in ncol(ASV.sample.sort):1) {
-  ASV.sample.sort <- ASV.sample.sort[order(-ASV.sample.sort[,i]),]
-}
-
-ASV.sample.sort <- data.frame(Samples = row.names(ASV.sample.sort),ASV.sample.sort,row.names = NULL)
-
-write.table(ASV.sample.sort, "dhaM_ASV_samples.txt", sep="\t", quote=F)
-
-
-
 #### ______ Export a formatted taxon table _______ ####
 
 #'The output is used in the script "ST-Assignation_Clinic-eDNA.R"
-#' available at: https://github.com/TBourd/R_scripts_HiSST_SM-outbreaks/tree/main/Step2_Assign-ST-infos
+#' available at: https://github.com/TBourd/R_scripts_HiSST_SM-outbreaks/tree/main/Step1_Assign-ST-infos
 
 ASV.sample.mat <- seqtab.nochim
 colnames(ASV.sample.mat) <- sub(">", "", asv_headers)
